@@ -24,8 +24,8 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name:  LOKESH S
+### Register Number: 21224240079
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
@@ -68,21 +68,24 @@ def train_model(model, train_loader, num_epochs=3):
 
 ## OUTPUT
 ### Training Loss per Epoch
+<img width="374" height="216" alt="image" src="https://github.com/user-attachments/assets/4a30e14a-70d6-46bb-bc4f-359aae521532" />
 
-Include the Training Loss per epoch
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img width="814" height="711" alt="image" src="https://github.com/user-attachments/assets/9e0cd179-7001-48b4-b2cf-68999ddcd5ff" />
+
 
 ### Classification Report
 
-Include Classification Report here
+<img width="601" height="424" alt="image" src="https://github.com/user-attachments/assets/d403cf66-47c6-4884-a232-cf504c289f51" />
+
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output 
+<img width="450" height="495" alt="image" src="https://github.com/user-attachments/assets/3d20c1c1-7d7b-4be4-8e1e-5b4ea7589f6f" />
+
 
 ## RESULT
 Include your result here.
